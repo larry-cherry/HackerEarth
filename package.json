@@ -1,0 +1,19 @@
+{
+  "name": "HackerEarth",
+  "version": "1.0.0",
+  "description": "A Place to Practice Coding",
+  "main": "index.js",
+  "repository": "git@github.com:larry-cherry/HackerEarth.git",
+  "author": "Larry Cherry <larry.cherry.0406@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.4.7",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}
